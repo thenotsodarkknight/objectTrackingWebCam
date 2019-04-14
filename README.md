@@ -1,2 +1,0 @@
-# objectTrackingWebCam
-Created with CodeSandbox
